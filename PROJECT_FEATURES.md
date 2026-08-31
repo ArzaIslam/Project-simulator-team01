@@ -24,3 +24,7 @@ The Bus Supervisor manages daily transportation operations by monitoring bus act
 
  dev
 **Status: Implemented**
+## T-53: Login with my username and password 
+This task involves creating a login form component with email and password fields, including validation and error handling.
+**Status: Implemented**
+

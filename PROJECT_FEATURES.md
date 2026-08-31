@@ -24,3 +24,7 @@ The Bus Supervisor manages daily transportation operations by monitoring bus act
 
  dev
 **Status: Implemented**
+## T-56:Generate payment receipts implemented..
+This task involves creating a payment reciepts for prove...
+**Status: Implemented**
+

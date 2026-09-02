@@ -1,5 +1,10 @@
 # Implemented Features
 
+## T-4.1: Collect bus fees from students
+This task involves creating a login form component with email and password fields.
+**Status: Implemented**
+# Implemented Features
+
 feature/t-01
 ##T-01: Driver Module
 The Driver can log in using valid credentials.
@@ -23,4 +28,7 @@ The Driver can view assigned bus details.
 The Bus Supervisor manages daily transportation operations by monitoring bus activities, allocating buses and drivers, checking availability, handling transportation problems, and ensuring buses operate on schedule.
 
  dev
+**Status: Implemented**
+## Driver Management
+This task involves managing driver information in the Project Simulator.
 **Status: Implemented**

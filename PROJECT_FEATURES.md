@@ -11,4 +11,4 @@ Scope
 Description
 The Bus Supervisor manages daily transportation operations by monitoring bus activities, allocating buses and drivers, checking availability, handling transportation problems, and ensuring buses operate on schedule.
 
-Status: Implemented
+Status: [Implemented](https://github.com/ArzaIslam/Project-simulator-team01/tree/Bus-Supervisor/T-05)

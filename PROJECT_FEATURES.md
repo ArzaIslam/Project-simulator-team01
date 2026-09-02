@@ -1,8 +1,6 @@
-# Implemented Features
+T-05: Bus Supervisor
 
-## #5: Bus Supervisor
-
-### Scope
+Scope
 - Login using username and password
 - Check daily bus activities
 - Allocate buses and drivers
@@ -10,7 +8,7 @@
 - Manage transportation problems
 - Ensure buses run on schedule
 
-### Description
+Description
 The Bus Supervisor manages daily transportation operations by monitoring bus activities, allocating buses and drivers, checking availability, handling transportation problems, and ensuring buses operate on schedule.
 
-**Status: Implemented**
+Status: Implemented

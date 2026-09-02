@@ -29,3 +29,6 @@ The Bus Supervisor manages daily transportation operations by monitoring bus act
 
  dev
 **Status: Implemented**
+## Driver Management
+This task involves managing driver information in the Project Simulator.
+**Status: Implemented**
